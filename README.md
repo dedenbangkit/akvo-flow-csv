@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 ### Edit Config file
 
 ```
-$ cp config.json.example config.json
+$ cp config.example.json config.json
 $ vim config.json
 ```
 
